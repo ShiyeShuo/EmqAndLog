@@ -4,4 +4,5 @@ public class test1 {
     String a="fenzhi1";
     String b="fenzhi2";
     String c="master";
+    String d="fenzhi1d";
 }
