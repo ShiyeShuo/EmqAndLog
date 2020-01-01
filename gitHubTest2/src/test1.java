@@ -3,4 +3,5 @@ public class test1 {
     String sex;
     String a="fenzhi1";
     String b="fenzhi2";
+    String d="fenzhi1d";
 }
