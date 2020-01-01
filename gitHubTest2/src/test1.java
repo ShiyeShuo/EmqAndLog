@@ -5,4 +5,5 @@ public class test1 {
     String b="fenzhi2";
     String c="master";
     String d="fenzhi1d";
+    String f="satash";
 }
