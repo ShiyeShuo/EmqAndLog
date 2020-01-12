@@ -1,4 +1,4 @@
-package com.ls.emqtest.client;
+package com.ls.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.ConfigurationProperties;
