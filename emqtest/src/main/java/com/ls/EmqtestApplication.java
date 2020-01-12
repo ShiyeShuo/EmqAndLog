@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@SpringBootApplication(scanBasePackages = {"com.ls.emqtest"})
-@ComponentScan(basePackages = {"com.ls.client"})
+@SpringBootApplication
+//@ComponentScan(basePackages = {"com.ls.client"})
 public class EmqtestApplication {
 
     public static void main(String[] args) {
